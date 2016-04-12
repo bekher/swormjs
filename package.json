@@ -1,0 +1,22 @@
+{
+  "name": "swormjs",
+  "version": "1.0.0",
+  "description": "a worm to recursively inject all node_modules with a backdoor",
+  "main": "infect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekher/swormjs.git"
+  },
+  "keywords": [
+    "worm"
+  ],
+  "author": "Greg Bekher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bekher/swormjs/issues"
+  },
+  "homepage": "https://github.com/bekher/swormjs#readme"
+}
